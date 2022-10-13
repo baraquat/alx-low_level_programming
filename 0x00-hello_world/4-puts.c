@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main- is the start function
- * use puts instead of printf
- * return: 0
+ * description- puts instead of printf
+ * return: zero value
  */
 int main(void)
 {
