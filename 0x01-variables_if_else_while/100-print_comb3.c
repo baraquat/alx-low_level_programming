@@ -15,11 +15,12 @@ int main(void)
 		{
 			putchar(j);
 			putchar(i);
-		}
+
 		if (j != '8' || i != '9')
 		{
 			putchar(',');
 			putchar(' ');
+		}
 		}
 	}
 	putchar('\n');
