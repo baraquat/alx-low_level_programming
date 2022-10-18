@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _putchar - print _putchar followed by a new line
+ * main - print _putchar followed by a new line
  * Return: 0 if successful
  */
-int _putchar(void)
+int main(void)
 {
 	char text[9] = "_putchar";
 	int i;
