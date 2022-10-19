@@ -3,7 +3,7 @@
 /**
  * _abs - print the absolute value of an integer
  * Return: void
- * @int: absolute int
+ * @n: absolute int
  */
 int _abs(int n)
 {
