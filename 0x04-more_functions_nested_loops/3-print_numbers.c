@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_numbers - from 0 to 9 follwed by a new line
- * Return: 0 if successful
+ * Return: void
  */
 void print_numbers(void)
 {
