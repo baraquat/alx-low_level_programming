@@ -1,13 +1,14 @@
 #include "main.h"
 /**
  * print_diagonal - print diagonal line
+ * @n: integer
  * Return: 0
  */
 void print_diagonal(int n)
 {
 	if (n <= 0)
 	{
-		_putchar('\n');
+		_putchar(10);
 	}
 	else
 	{
