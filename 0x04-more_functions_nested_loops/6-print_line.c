@@ -3,6 +3,7 @@
 /**
  * print_line - draw a straight line in the terminal
  * Return: 0
+ * @n: integer
  */
 
 void print_line(int n)
@@ -15,7 +16,7 @@ void print_line(int n)
 	{
 		int i;
 
-		for (i = 0; i < n; i++)
+		for (i = 1; i < n; i++)
 			_putchar('_');
 	}
 	_putchar('\n');
