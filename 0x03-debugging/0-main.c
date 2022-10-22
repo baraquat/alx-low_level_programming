@@ -2,7 +2,7 @@
 
 /**
  * main - test for positive or negative function
- * Return: void
+ * Return: 0
  */
 
 int (main)void
